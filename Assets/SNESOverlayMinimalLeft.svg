@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46"
+   height="46"
+   viewBox="0 0 12.170833 12.170834"
+   version="1.1"
+   id="svg2737"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="SNESOverlayMinimalLeft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2739"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="8"
+     inkscape:cx="44.4375"
+     inkscape:cy="36.3125"
+     inkscape:window-width="3440"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="6.0854167,6.8461325"
+       orientation="-1,0"
+       id="guide2798"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10.674054,10.847917"
+       orientation="0,1"
+       id="guide2800"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12.227091,1.3229167"
+       orientation="0,1"
+       id="guide2802"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.3229167,5.3423974"
+       orientation="-1,0"
+       id="guide2811"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10.847917,3.4688913"
+       orientation="-1,0"
+       id="guide2813"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2734">
+    <linearGradient
+       id="linearGradient5861"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#282e30;stop-opacity:1;"
+         offset="0"
+         id="stop5859" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2850"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,4.99214"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+       id="rect2969"
+       width="12.170834"
+       height="12.170834"
+       x="0"
+       y="2.220446e-16" />
+    <path
+       style="fill:#f0b847;fill-opacity:1;stroke:#f0b847;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 10.847917,1.3229327 1.3229168,6.0854328 10.847917,10.847933 Z"
+       id="path2854" />
+  </g>
+</svg>

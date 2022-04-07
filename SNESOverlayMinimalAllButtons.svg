@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="460"
+   height="46"
+   viewBox="0 0 121.70833 12.170834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="SNESOverlayMinimalAllButtons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.4697368"
+     inkscape:cx="228.6917"
+     inkscape:cy="58.649983"
+     inkscape:window-width="3440"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="10" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5861"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#282e30;stop-opacity:1;"
+         offset="0"
+         id="stop5859" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2850"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,4.99214"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <g
+     inkscape:label="Controller"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#282e30;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:25"
+       id="rect1005"
+       width="121.70834"
+       height="12.170834"
+       x="0"
+       y="0"
+       inkscape:label="Background" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-5"
+       transform="translate(115.62292)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0495004;stroke-dasharray:0.0495004, 0.0990013;stroke-opacity:0.5"
+         id="rect2969-8"
+         width="6.0854168"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.60129px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0900325"
+         x="-9.5244846"
+         y="4.0291419"
+         id="text12201-3"
+         transform="matrix(0,-1.1174016,0.89493339,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-72"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.0900325"
+           x="-9.5244846"
+           y="4.0291419">Right</tspan></text>
+    </g>
+    <g
+       inkscape:label="A Button"
+       id="layer1-7"
+       transform="translate(103.45208)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-3"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.494px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.362349"
+         x="1.9425945"
+         y="12.499842"
+         id="text12201-8"
+         transform="scale(1.1549559,0.86583395)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.362349"
+           x="1.9425945"
+           y="12.499842">A</tspan></text>
+    </g>
+    <g
+       inkscape:label="B Button"
+       id="layer1-0"
+       transform="translate(91.281251)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-0"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.9086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.372715"
+         x="1.3607665"
+         y="12.021281"
+         id="text12201-5"
+         transform="scale(1.1081649,0.90239279)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.372715"
+           x="1.3607665"
+           y="12.021281">B</tspan></text>
+    </g>
+    <g
+       inkscape:label="X Button"
+       id="layer1-13"
+       transform="translate(79.110418)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-75"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.9312px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32328"
+         x="1.3466437"
+         y="10.445539"
+         id="text12201-17"
+         transform="scale(0.97303702,1.0277101)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.32328"
+           x="1.3466437"
+           y="10.445539">X</tspan></text>
+    </g>
+    <g
+       inkscape:label="Y Button"
+       id="layer1-8"
+       transform="translate(66.939584)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-27"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.6558px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.341394"
+         x="3.1078258"
+         y="11.079056"
+         id="text12201-2"
+         transform="scale(1.024243,0.97633082)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-46"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.341394"
+           x="3.1078258"
+           y="11.079056">Y</tspan></text>
+    </g>
+    <g
+       inkscape:label="Start"
+       id="layer1-3"
+       transform="translate(54.768751,6.0854167)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0495004;stroke-dasharray:0.0495004, 0.0990013;stroke-opacity:0.5"
+         id="rect2969-1"
+         width="12.170834"
+         height="6.0854168"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.39774px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109944"
+         x="1.3334056"
+         y="4.5098605"
+         id="text12201-54"
+         transform="scale(0.96498762,1.0362827)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.109944"
+           x="1.3334056"
+           y="4.5098605">Start</tspan></text>
+    </g>
+    <g
+       inkscape:label="Select"
+       id="layer1-09"
+       transform="translate(54.768751)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0495004;stroke-dasharray:0.0495004, 0.0990013;stroke-opacity:0.5"
+         id="rect2969-7"
+         width="12.170834"
+         height="6.0854168"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.16571px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104143"
+         x="1.4117458"
+         y="4.2719116"
+         id="text12201-1"
+         transform="scale(0.91407305,1.0940045)"><tspan
+           sodipodi:role="line"
+           id="tspan12199-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.104143"
+           x="1.4117458"
+           y="4.2719116">Select</tspan></text>
+    </g>
+    <g
+       inkscape:label="Right"
+       id="layer1-4"
+       transform="translate(42.597917)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-39"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <path
+         style="fill:#f0b847;fill-opacity:1;stroke:#f0b847;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1.3229331,1.3229327 10.847933,6.0854328 1.3229331,10.847933 Z"
+         id="path2854-3" />
+    </g>
+    <g
+       inkscape:label="Down"
+       id="layer1-1"
+       transform="translate(30.427084)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-9"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <path
+         style="fill:#f0b847;fill-opacity:1;stroke:#f0b847;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1.3229167,1.3229328 6.0854168,10.847933 10.847917,1.3229328 Z"
+         id="path2854" />
+    </g>
+    <g
+       inkscape:label="Up"
+       id="layer1-6"
+       transform="translate(18.25625)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-2"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <path
+         style="fill:#f0b847;fill-opacity:1;stroke:#f0b847;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1.3229167,10.847917 6.0854168,1.3229165 10.847917,10.847917 Z"
+         id="path2854-2" />
+    </g>
+    <g
+       inkscape:label="Left"
+       id="layer1-2"
+       transform="translate(6.0854167)">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0700041;stroke-dasharray:0.0700041, 0.140009;stroke-opacity:0.5"
+         id="rect2969-6"
+         width="12.170834"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <path
+         style="fill:#f0b847;fill-opacity:1;stroke:#f0b847;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 10.847917,1.3229327 1.3229168,6.0854328 10.847917,10.847933 Z"
+         id="path2854-8" />
+    </g>
+    <g
+       inkscape:label="Left Bumper"
+       id="layer1-9">
+      <rect
+         style="fill:#282e30;fill-opacity:1;stroke-width:0.0495004;stroke-dasharray:0.0495004, 0.0990013;stroke-opacity:0.5"
+         id="rect2969"
+         width="6.0854168"
+         height="12.170834"
+         x="0"
+         y="2.220446e-16" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.39454px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109864"
+         x="-7.8782587"
+         y="4.9169364"
+         id="text12201"
+         transform="matrix(0,-1.3637572,0.73326836,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan12199"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:BlackFat;-inkscape-font-specification:BlackFat;fill:#f0b847;fill-opacity:1;stroke-width:0.109864"
+           x="-7.8782587"
+           y="4.9169364">Left</tspan></text>
+    </g>
+  </g>
+</svg>
