@@ -114,27 +114,54 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     background-position: 0 -70px;
 }
 
+
+/*  This is the div that contains the Start and Select buttons */
 .custom .arrows{
     position: absolute;
-    width: 176px;
-    height: 62px;
-    top: 214px;
-    left: 358px;
+    width: 46px;
+    height: 46px;
+    top: 0px;
+    left: 207px;
 }
-.custom .back, .custom .start{
-    width: 71.5px;
-    height: 61.5px;
-}
-.custom .back.pressed, .custom .start.pressed{
-    background: url(drawing/drawing.svg);
-    background-position: -1177.5px 0px;
-}
+
 .custom .back{
-    float: left;
+    position: absolute;
+    width:46px;
+    height:23px;
+    top: 0px;
+    left: 207px;
 }
+
+.custom .back.pressed{
+    position: absolute;
+    width:46px;
+    height:23px;
+    top: 0px;
+    left: 207px;
+    background: url(Assets/SNESOverlayMinimalSelect.svg);
+    background-position: 0px 0px;
+    opacity: 1;
+}
+
 .custom .start{
-    float: right;
+    position: absolute;
+    width:46px;
+    height:23px;
+    top: 23px;
+    left: 207px;
 }
+
+.custom .start.pressed{
+    position: absolute;
+    width:46px;
+    height:23px;
+    top: 23px;
+    left: 207px;
+    background: url(Assets/SNESOverlayMinimalStart.svg);
+    background-position: 0px 0px;
+    opacity: 1;
+}
+
 /* Positioning and size of the container for the abxy buttons */
 .custom .abxy{
     position: absolute;
