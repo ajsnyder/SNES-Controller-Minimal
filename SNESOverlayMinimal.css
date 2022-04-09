@@ -1,3 +1,7 @@
+/*
+https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Minimal/SNESOverlayMinimal.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"5"},{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"9"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"8"},{"targetType":"buttons","target":"10","disabled":false,"choiceType":"buttons","choice":"10"},{"targetType":"buttons","target":"11","disabled":false,"choiceType":"buttons","choice":"11"},{"targetType":"axes","target":"0","disabled":false,"choiceType":"","positive":{"choiceType":"buttons","choice":"15"},"negative":{"choiceType":"buttons","choice":"14"}},{"targetType":"axes","target":"1","disabled":false,"choiceType":"","positive":{"choiceType":"buttons","choice":"13"},"negative":{"choiceType":"buttons","choice":"12"}},{"targetType":"axes","target":"2","disabled":false,"choiceType":"","positive":{"choiceOperand":"+","choiceType":"axes","choice":"2"},"negative":{"choiceOperand":"-","choiceType":"axes","choice":"2"}},{"targetType":"axes","target":"3","disabled":false,"choiceType":"","positive":{"choiceOperand":"+","choiceType":"axes","choice":"3"},"negative":{"choiceOperand":"-","choiceType":"axes","choice":"3"}}]}
+*/
+
 
 .controller.custom{
     background: url(SNESOverlayMinimal.svg); 
@@ -37,7 +41,7 @@
     left: 0px;
     width: 46px;
     height: 23px;
-    background: url(Assets\SNESOverlayMinimalSelect.svg);
+    background: url(Assets/SNESOverlayMinimalSelect.svg);
     background-position: 0px 0px;
 }
 /* This is for the START button */
@@ -47,7 +51,7 @@
     left: 0px;
     width: 46px;
     height: 23px;
-    background: url(Assets\SNESOverlayMinimalStart.svg);
+    background: url(Assets/SNESOverlayMinimalStart.svg);
     background-position: 0px 0px;
 }
 
@@ -70,7 +74,7 @@
     left: 0px;
     width: 23px;
     height: 46px;
-    background: url(Assets\SNESOverlayMinimalLeftBumper.svg);
+    background: url(Assets/SNESOverlayMinimalLeftBumper.svg);
     background-position: 0px 0px;
 }
 .custom .bumper.right{
@@ -79,7 +83,7 @@
     left: 437px;
     width: 23px;
     height: 46px;
-    background: url(Assets\SNESOverlayMinimalRightBumper.svg);
+    background: url(Assets/SNESOverlayMinimalRightBumper.svg);
     background-position: 0px 0px;
 }
 
@@ -160,7 +164,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     position: relative;
     top: 0px;
     left: 138px;
-    background: url(Assets\SNESOverlayMinimalA.svg);
+    background: url(Assets/SNESOverlayMinimalA.svg);
     background-position: 0px 0px;
 }
 .custom .b{
@@ -172,7 +176,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     position: relative;
     top: 0px;
     left: 92px;
-    background: url(Assets\SNESOverlayMinimalB.svg);
+    background: url(Assets/SNESOverlayMinimalB.svg);
     background-position: 0px 0px;
 }
 .custom .x{
@@ -184,7 +188,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     position: relative;
     top: 0px;
     left: 46px;
-    background: url(Assets\SNESOverlayMinimalX.svg);
+    background: url(Assets/SNESOverlayMinimalX.svg);
     background-position: 0px 0px;
 }
 .custom .y{
@@ -196,7 +200,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     position: relative;
     top: 0px;
     left: 0px;
-    background: url(Assets\SNESOverlayMinimalY.svg);
+    background: url(Assets/SNESOverlayMinimalY.svg);
     background-position: 0px 0px;
 }
 
