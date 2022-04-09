@@ -36,7 +36,7 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
 }
 /* This is for the SELECT button */
 .custom .trigger.left{ 
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     width: 46px;
@@ -46,7 +46,7 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
 }
 /* This is for the START button */
 .custom .trigger.right{
-    position: relative;
+    position: absolute;
     top: 23px;
     left: 0px;
     width: 46px;
@@ -69,7 +69,7 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
     opacity: 1;
 }
 .custom .bumper.left{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     width: 23px;
@@ -78,7 +78,7 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
     background-position: 0px 0px;
 }
 .custom .bumper.right{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 437px;
     width: 23px;
@@ -157,48 +157,48 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 }
 */
 .custom .a{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 138px;
 }
 .custom .a.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 138px;
     background: url(Assets/SNESOverlayMinimalA.svg);
     background-position: 0px 0px;
 }
 .custom .b{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 92px;
 }
 .custom .b.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 92px;
     background: url(Assets/SNESOverlayMinimalB.svg);
     background-position: 0px 0px;
 }
 .custom .x{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 46px;
 }
 .custom .x.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 46px;
     background: url(Assets/SNESOverlayMinimalX.svg);
     background-position: 0px 0px;
 }
 .custom .y{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
 }
 .custom .y.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     background: url(Assets/SNESOverlayMinimalY.svg);
@@ -222,48 +222,48 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 
 /* Directional buttons */
 .custom .left{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
 }
 .custom .left.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 0px;
     background: url(Assets/SNESOverlayMinimalLeft.svg);
     background-position: 0px 0px;
 }
 .custom .up{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 46px;
 }
 .custom .up.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 46px;
     background: url(Assets/SNESOverlayMinimalUp.svg);
     background-position: 0px 0px;
 }
 .custom .down{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 92px;
 }
 .custom .down.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 92px;
     background: url(Assets/SNESOverlayMinimalDown.svg);
     background-position: 0px 0px;
 }
 .custom .right{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 138px;
 }
 .custom .right.pressed{
-    position: relative;
+    position: absolute;
     top: 0px;
     left: 138px;
     background: url(Assets/SNESOverlayMinimalRight.svg);
