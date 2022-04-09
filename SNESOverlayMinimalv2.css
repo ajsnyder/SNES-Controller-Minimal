@@ -133,11 +133,6 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 }
 
 .custom .back.pressed{
-    position: absolute;
-    width:46px;
-    height:23px;
-    top: 0px;
-    left: 207px;
     background: url(Assets/SNESOverlayMinimalSelect.svg);
     background-position: 0px 0px;
     opacity: 1;
@@ -152,11 +147,6 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 }
 
 .custom .start.pressed{
-    position: absolute;
-    width:46px;
-    height:23px;
-    top: 23px;
-    left: 207px;
     background: url(Assets/SNESOverlayMinimalStart.svg);
     background-position: 0px 0px;
     opacity: 1;
