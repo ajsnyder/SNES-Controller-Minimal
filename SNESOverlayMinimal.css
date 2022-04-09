@@ -1,15 +1,13 @@
+
 .controller.custom{
-    background: url(drawing/drawing.svg); 
+    background: url(SNESOverlayMinimal.svg); 
     background-repeat: no-repeat;
     background-position: 0px 0px;
-    width: 970px;
-    height: 424px;
-    margin-left: -485px;
-    margin-top: -212px;
+    width: 460px;
+    height: 46px;
 }
 .custom.disconnected {
-    background: url(drawing/drawing.svg); 
-    background-position: 0px -424px;
+    background: url(SNESOverlayMinimalDisconnected.svg); 
     background-repeat: no-repeat;
 }
 .custom.disconnected div {
@@ -20,48 +18,69 @@
  * for the triggers.*/
 .custom .triggers{
     position: absolute;
-    width: 176px;
-    height: 62px;
-    top: 214px;
-    left: 358px;
+    width: 46px;
+    height: 46px;
+    top: 0px;
+    left: 207px;
 }
+
 .custom .trigger{
-    width: 71.5px;
-    height: 61.5px;
-    background: url(drawing/drawing.svg);
-    background-position: -1177.5px 0px;
+    opacity: 0;
 }
+.custom .trigger.pressed{
+    opacity: 1;
+}
+/* This is for the SELECT button */
 .custom .trigger.left{ 
-    float: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 23px;
+    background: url(Assets\SNESOverlayMinimalSelect.svg);
+    background-position: 0px 0px;
 }
+/* This is for the START button */
 .custom .trigger.right{
-    float: right;
+    position: relative;
+    top: 23px;
+    left: 0px;
+    width: 46px;
+    height: 23px;
+    background: url(Assets\SNESOverlayMinimalStart.svg);
+    background-position: 0px 0px;
 }
 
 .custom .bumpers{
-    width: 759px;
-    height: 34px;
+    width: 460px;
+    height: 46px;
     position: absolute;
-    left: 104px;
+    left: 0px;
+    top: 0px;
 }
 .custom .bumper{
-    width: 211px;
-    height: 34px;
-    background: url(drawing/drawing.svg); 
-    background-position: -967px 0px;
-    background-repeat: no-repeat;
     opacity: 0;
 }
 .custom .bumper.pressed{
     opacity: 1;
 }
 .custom .bumper.left{
-    float: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 23px;
+    height: 46px;
+    background: url(Assets\SNESOverlayMinimalLeftBumper.svg);
+    background-position: 0px 0px;
 }
 .custom .bumper.right{
-    float: right;
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
+    position: relative;
+    top: 0px;
+    left: 437px;
+    width: 23px;
+    height: 46px;
+    background: url(Assets\SNESOverlayMinimalRightBumper.svg);
+    background-position: 0px 0px;
 }
 
 /* This bit of code is for the player indicator, which is represented in
@@ -115,35 +134,72 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 /* Positioning and size of the container for the face buttons */
 .custom .abxy{
     position: absolute;
-    width: 259px;
-    height: 218px;
-    top: 105px;
-    left: 633px;
+    width: 184px;
+    height: 46px;
+    top: 0px;
+    left: 253px;
 }
 /* base class used to simplify the sprite mapping */
 .custom .button{
     position: absolute;
-    width:75px;
-    height:75px;
+    width:46px;
+    height:46px;
 }
+/*
 .custom .button.pressed{
     background: url(drawing/drawing.svg);
     background-position-x: -1249px;
 }
+*/
 .custom .a{
-    top: 71px;
-    right: 0px;
+    position: relative;
+    top: 0px;
+    left: 138px;
+}
+.custom .a.pressed{
+    position: relative;
+    top: 0px;
+    left: 138px;
+    background: url(Assets\SNESOverlayMinimalA.svg);
+    background-position: 0px 0px;
 }
 .custom .b{
-    top: 143px;
+    position: relative;
+    top: 0px;
     left: 92px;
+}
+.custom .b.pressed{
+    position: relative;
+    top: 0px;
+    left: 92px;
+    background: url(Assets\SNESOverlayMinimalB.svg);
+    background-position: 0px 0px;
 }
 .custom .x{
-    left: 92px;
+    position: relative;
+    top: 0px;
+    left: 46px;
+}
+.custom .x.pressed{
+    position: relative;
+    top: 0px;
+    left: 46px;
+    background: url(Assets\SNESOverlayMinimalX.svg);
+    background-position: 0px 0px;
 }
 .custom .y{
-    top: 71px;
+    position: relative;
+    top: 0px;
+    left: 0px;
 }
+.custom .y.pressed{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url(Assets\SNESOverlayMinimalY.svg);
+    background-position: 0px 0px;
+}
+
 /* Analog sticks follow the same principles as the triggers in terms of positioning
 Note that the rotation of the sticks in hard coded with javascript, so it applies 
 the CSS inline. */
@@ -182,5 +238,5 @@ for '.controller.custom' so when your skin is activated via player selection
 parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
 centered on screen. */
 .custom.half{
-    margin-top: -212px;
+    margin-top: -23px;
 }
