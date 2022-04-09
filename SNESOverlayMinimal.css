@@ -22,10 +22,10 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
  * for the triggers.*/
 .custom .triggers{
     position: absolute;
-    width: 46px;
+    width: 460px;
     height: 46px;
     top: 0px;
-    left: 207px;
+    left: 0px;
 }
 
 .custom .trigger{
@@ -34,24 +34,24 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
 .custom .trigger.pressed{
     opacity: 1;
 }
-/* This is for the SELECT button */
+/* Left trigger is bound to the down arrow, so using assets for down arrow accordingly */
 .custom .trigger.left{ 
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 115px;
     width: 46px;
-    height: 23px;
-    background: url(Assets/SNESOverlayMinimalSelect.svg);
+    height: 46px;
+    background: url(Assets/SNESOverlayMinimalDown.svg);
     background-position: 0px 0px;
 }
-/* This is for the START button */
+/* Right trigger is bound to the Y button, so using assets for Y button accordingly */
 .custom .trigger.right{
     position: absolute;
-    top: 23px;
-    left: 0px;
+    top: 0px;
+    left: 253px;
     width: 46px;
-    height: 23px;
-    background: url(Assets/SNESOverlayMinimalStart.svg);
+    height: 46px;
+    background: url(Assets/SNESOverlayMinimalY.svg);
     background-position: 0px 0px;
 }
 
