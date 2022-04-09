@@ -118,10 +118,10 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 /*  This is the div that contains the Start and Select buttons */
 .custom .arrows{
     position: absolute;
-    width: 46px;
+    width: 460px;
     height: 46px;
     top: 0px;
-    left: 207px;
+    left: 0px;
 }
 
 .custom .back{
