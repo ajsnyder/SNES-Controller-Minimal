@@ -36,7 +36,7 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
 }
 /* This is for the SELECT button */
 .custom .trigger.left{ 
-    /*position: relative;*/
+    position: relative;
     top: 0px;
     left: 0px;
     width: 46px;
@@ -44,11 +44,6 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
     background: url(Assets/SNESOverlayMinimalSelect.svg);
     background-position: 0px 0px;
 }
-
-.custom .trigger.left.pressed{
-    opacity: 1;
-}
-
 /* This is for the START button */
 .custom .trigger.right{
     position: relative;
