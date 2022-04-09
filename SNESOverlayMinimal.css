@@ -135,7 +135,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 .custom .start{
     float: right;
 }
-/* Positioning and size of the container for the face buttons */
+/* Positioning and size of the container for the abxy buttons */
 .custom .abxy{
     position: absolute;
     width: 184px;
@@ -149,6 +149,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     width:46px;
     height:46px;
 }
+
 /*
 .custom .button.pressed{
     background: url(drawing/drawing.svg);
@@ -203,6 +204,73 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
     background: url(Assets/SNESOverlayMinimalY.svg);
     background-position: 0px 0px;
 }
+
+/* Positioning and size of the container for the dpad buttons */
+.custom .dpad{
+    position: absolute;
+    width: 184px;
+    height: 46px;
+    top: 0px;
+    left: 23px;
+}
+/* base class used to simplify the sprite mapping */
+.custom .face{
+    position: absolute;
+    width:46px;
+    height:46px;
+}
+
+/* Directional buttons */
+.custom .left{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.custom .left.pressed{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url(Assets/SNESOverlayMinimalLeft.svg);
+    background-position: 0px 0px;
+}
+.custom .up{
+    position: relative;
+    top: 0px;
+    left: 46px;
+}
+.custom .up.pressed{
+    position: relative;
+    top: 0px;
+    left: 46px;
+    background: url(Assets/SNESOverlayMinimalUp.svg);
+    background-position: 0px 0px;
+}
+.custom .down{
+    position: relative;
+    top: 0px;
+    left: 92px;
+}
+.custom .down.pressed{
+    position: relative;
+    top: 0px;
+    left: 92px;
+    background: url(Assets/SNESOverlayMinimalDown.svg);
+    background-position: 0px 0px;
+}
+.custom .right{
+    position: relative;
+    top: 0px;
+    left: 138px;
+}
+.custom .right.pressed{
+    position: relative;
+    top: 0px;
+    left: 138px;
+    background: url(Assets/SNESOverlayMinimalRight.svg);
+    background-position: 0px 0px;
+}
+
+
 
 /* Analog sticks follow the same principles as the triggers in terms of positioning
 Note that the rotation of the sticks in hard coded with javascript, so it applies 
