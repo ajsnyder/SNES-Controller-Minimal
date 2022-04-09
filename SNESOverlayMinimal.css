@@ -69,22 +69,22 @@ https://gamepadviewer.com/?p=1&css=https://ajsnyder.github.io/SNES-Controller-Mi
     opacity: 1;
 }
 .custom .bumper.left{
+    background: url(Assets/SNESOverlayMinimalLeftBumper.svg);
+    background-position: 0px 0px;
+    width: 23px;
+    height: 46px;  
     position: absolute;
     top: 0px;
     left: 0px;
-    width: 23px;
-    height: 46px;
-    background: url(Assets/SNESOverlayMinimalLeftBumper.svg);
-    background-position: 0px 0px;
 }
 .custom .bumper.right{
+    background: url(Assets/SNESOverlayMinimalRightBumper.svg);
+    background-position: 0px 0px;
+    width: 23px;
+    height: 46px;
     position: absolute;
     top: 0px;
     left: 437px;
-    width: 23px;
-    height: 46px;
-    background: url(Assets/SNESOverlayMinimalRightBumper.svg);
-    background-position: 0px 0px;
 }
 
 /* This bit of code is for the player indicator, which is represented in
